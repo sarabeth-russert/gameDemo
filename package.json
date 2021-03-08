@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "A demonstration of simple game designs using Object Oriented Programming for Code Fellows Partner Power Hour",
   "main": "index.js",
+  "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
